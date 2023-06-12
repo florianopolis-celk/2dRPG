@@ -1,0 +1,25 @@
+FPS = 30
+WINWIDTH = 800
+WINHEIGHT = 600
+HALF_WINWIDTH = int(WINWIDTH / 2)
+HALF_WINHEIGHT = int(WINHEIGHT / 2)
+
+
+#largura e altura total de cada tile em pixels
+TILEWIDTH = 50
+TILEHEIGHT = 85
+TILEFLOORHEIGHT = 45
+
+CAM_MOVE_SPEED = 5 #quantos pixels por frame 
+
+OUTSIDE_DECORATION_PCT = 20
+
+BRIGHTBLUE = ( 0, 170, 255)
+WHITE = (255, 255, 255)
+BGCOLOR = BRIGHTBLUE
+TEXTCOLOR = WHITE
+UP = 'up'
+DOWN = 'down'
+LEFT = 'left'
+RIGHT = 'right'
+
